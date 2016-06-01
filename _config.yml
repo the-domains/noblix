@@ -1,0 +1,14 @@
+layout_spectrum: 0.28525168914347887
+typography_spectrum: 0.07098885509185493
+color:
+  brandStrength: 0.91796142491512
+  lightness: 0.7209772523492575
+  saturation: 0.20685028587467968
+  rhythmicContrast: 0.6704039331525564
+  brandColors:
+    - '#962D3E'
+    - '#343642'
+    - '#979C9C'
+    - '#F2EBC7'
+    - '#348899'
+name: Noblix
